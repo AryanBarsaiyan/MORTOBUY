@@ -78,7 +78,8 @@ const HeaderComponent = () => {
     <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
       <Container>
         <LinkContainer to="/">
-          <Navbar.Brand href="/">MORTOBUY</Navbar.Brand>
+          {/* <Navbar.Brand href="/">MORTOBUY</Navbar.Brand> */}
+          <Navbar.Brand href="/"> <img  src={require('./moretobuy.png')} alt="logo" border="0" width="120px" height="40px" /></Navbar.Brand>
         </LinkContainer>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
