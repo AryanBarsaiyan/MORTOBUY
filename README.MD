@@ -1,6 +1,6 @@
 # MORTOBUY E-commerce Platform
 ### Live on (https://frontend-xo7x.onrender.com/)
-> eCommerce platform built with the MERN stack & Redux.
+> eCommerce platform built with the MERN stack.
 
 
 ## Features
